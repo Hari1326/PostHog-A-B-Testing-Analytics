@@ -90,26 +90,6 @@ Our code isn't the only thing that's open source 😳. We also open source our [
 
 Curious about how to make the most of PostHog? We wrote a guide to [winning with PostHog](https://posthog.com/docs/new-to-posthog/getting-hogpilled) which walks you through the basics of [measuring activation](https://posthog.com/docs/new-to-posthog/activation), [tracking retention](https://posthog.com/docs/new-to-posthog/retention), and [capturing revenue](https://posthog.com/docs/new-to-posthog/revenue).
 
-## Contributing
 
-We <3 contributions big and small:
 
-- Vote on features or get early access to beta functionality in our [roadmap](https://posthog.com/roadmap)
-- Open a PR (see our instructions on [developing PostHog locally](https://posthog.com/handbook/engineering/developing-locally))
-- Submit a [feature request](https://github.com/PostHog/posthog/issues/new?assignees=&labels=enhancement%2C+feature&template=feature_request.md) or [bug report](https://github.com/PostHog/posthog/issues/new?assignees=&labels=bug&template=bug_report.md)
 
-## Open-source vs. paid
-
-This repo is available under the [MIT expat license](https://github.com/PostHog/posthog/blob/master/LICENSE), except for the `ee` directory (which has its [license here](https://github.com/PostHog/posthog/blob/master/ee/LICENSE)) if applicable.
-
-Need _absolutely 💯% FOSS_? Check out our [posthog-foss](https://github.com/PostHog/posthog-foss) repository, which is purged of all proprietary code and features.
-
-The pricing for our paid plan is completely transparent and available on [our pricing page](https://posthog.com/pricing).
-
-## We're hiring!
-
-<img src="https://res.cloudinary.com/dmukukwp6/image/upload/v1/posthog.com/src/components/Home/images/mission-control-hog" alt="Hedgehog working on a Mission Control Center" width="350px"/>
-
-Hey! If you're reading this, you've proven yourself as a dedicated README reader.
-
-You might also make a great addition to our team. We're growing fast [and would love for you to join us](https://posthog.com/careers).
